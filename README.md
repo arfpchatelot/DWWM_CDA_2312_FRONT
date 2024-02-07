@@ -1,1 +1,2 @@
-# DWWM_CDA_2312_FRONT
+Progression d'exercice en HTML5 et CSS pour le FRONT-END avec grid - flexbox - positionning CSS - propriétés CSS Display - formulaire...
+JS les bases.
